@@ -1,5 +1,14 @@
-## Hi there 👋
-
+# My Current Projects
+```
+[x] Learn to use markdown
+[x] leartn to use github
+[ ] learn basic java and python
+[ ] understand what ryan and david are telling me
+[ ] learn to use AI to write more complicated code
+[ ] help David build a great PWA for the Downtown Eastide
+```
+- Looking for help on where to learn good fundamentals on coding.
+- ![The movie hackers, a great example of coding](https://m.media-amazon.com/images/M/MV5BMTYwODY3OTI2NF5BMl5BanBnXkFtZTcwMjU4MjkzNA@@._V1_.jpg)
 <!--
 **matzhue/matzhue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
